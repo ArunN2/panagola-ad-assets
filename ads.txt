@@ -1,0 +1,27 @@
+Format: package flags url1 url2 url3...
+FLAGS
+G/A = GAME/APP
+I   = INDIAN (will be shown only in India)
+R   = RELIGIOUS
+Lines not starting with com.
+will be ignored
+
+com.panagola.app.tictactoecalendar GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_habit_calendar.png
+com.panagola.game.worldmappuzzle GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_world_map_puzzle.png
+com.panagola.game.arrows GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_arrows.png
+com.panagola.game.shapepuzzle GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_shape_puzzle.png
+com.panagola.app.worldclock GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_world_clock.png
+com.panagola.app.notepad GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_notepad.png
+com.panagola.game.wordict GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_wordle_1.png
+com.panagola.game.sudoku GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_sudoku_1.png
+com.panagola.game.placeit GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_placeit.png
+com.panagola.game.imarblefree GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_imarble.png
+com.panagola.game.arrangefree GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_islide.png
+com.panagola.game.pictris GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_pictris.png
+com.panagola.game.oddcolorout GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_oddcolorout.png
+com.panagola.game.puzzle2048 GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_2048.png
+com.panagola.game.jumblefree GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_jumble_1.png
+com.panagola.app.om GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_om.png
+com.panagola.app.chakra GA https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_chakra.png
+com.panagola.app.puja RI https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_puja.png
+com.panagola.game.hindujigsaw RI https://raw.githubusercontent.com/ArunN2/panagola-ad-assets/main/exit_hindu_god_puzzle.png
